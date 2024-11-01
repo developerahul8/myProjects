@@ -1,0 +1,14 @@
+[
+    {
+        "projectName":"3 Task A Day",
+        "projectCode":"https://github.com/developerahul8/3-task-a-day",
+        "projectWebsite":"https://3taskaday.vercel.app",
+        "projectImage":"./images/3 Task A Day.jpg"
+    },
+    {
+        "projectName":"Rest Country",
+        "projectCode":"https://github.com/developerahul8/rest-country-frontend-mentor",
+        "projectWebsite":"https://globalcountry.vercel.app",
+        "projectImage":"./images/Rest Country.jpg"
+    }
+]
